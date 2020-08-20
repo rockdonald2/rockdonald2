@@ -38,7 +38,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 
-#### [4. Coffee Crisis Visualization]()
+#### [4. Coffee Crisis Visualization](https://rockdonald2.github.io/coffeeCrisisViz/)
 - The stack I used for this visualization:  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
