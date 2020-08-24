@@ -74,6 +74,7 @@
 #### 8. Others
 - [Visualizing population projection across EU](https://rockdonald2.github.io/populationprojection/)
 - [Visualizing unemployment across NUTS2 regions](https://rockdonald2.github.io/nuts2unemployment/)
+- [Small States Can Be Big Players in Development and Good Governance](https://rockdonald2.github.io/goodGovernanceViz/)
 - The stack I used for these visualizations:  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
