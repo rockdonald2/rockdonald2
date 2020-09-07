@@ -92,3 +92,12 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+- [URL shortener](https://github.com/rockdonald2/urlshortener)
+- The stack I used for this project:  
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
